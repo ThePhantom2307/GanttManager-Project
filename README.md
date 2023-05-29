@@ -1,6 +1,12 @@
 # GanttManager-Project
 GanttManager was a project for a course made with Java.
 
+
+
+![image](https://github.com/PanagiotisT2307/GanttManager-Project/assets/49351300/3fb252d0-f512-4ddd-88a4-768603c74133)
+
+
+
 ## Getting Started
 Import the project into Eclipse IDE navigate to src/main/java/app/gui there you will find the AppStarter.java file which is the main class.
 
