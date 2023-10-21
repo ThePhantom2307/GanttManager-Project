@@ -1,5 +1,5 @@
 # GanttManager-Project
-GanttManager was a project for a course made with Java.
+GanttManager is a project for a course at the university I am studying.
 
 
 
