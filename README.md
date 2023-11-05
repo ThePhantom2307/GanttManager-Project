@@ -1,5 +1,5 @@
 # GanttManager-Project
-GanttManager is a project for a course at the university I am studying.
+Gantt Manager is a project for the Software Development course at the university I study in collaboration with ItzUbixD.
 
 
 
